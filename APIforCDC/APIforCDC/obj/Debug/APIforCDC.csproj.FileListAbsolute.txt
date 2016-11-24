@@ -1,0 +1,9 @@
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDC\bin\Debug\APIforCDC.exe.config
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDC\bin\Debug\APIforCDC.exe
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDC\bin\Debug\APIforCDC.pdb
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDC\obj\Debug\APIforCDC.csprojResolveAssemblyReference.cache
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDC\obj\Debug\APIforCDC.exe
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDC\obj\Debug\APIforCDC.pdb
+C:\Users\sereg\Source\Repos\FP\APIforCDC\APIforCDC\bin\Debug\APIforCDC.exe.config
+C:\Users\sereg\Source\Repos\FP\APIforCDC\APIforCDC\obj\Debug\APIforCDC.exe
+C:\Users\sereg\Source\Repos\FP\APIforCDC\APIforCDC\obj\Debug\APIforCDC.pdb

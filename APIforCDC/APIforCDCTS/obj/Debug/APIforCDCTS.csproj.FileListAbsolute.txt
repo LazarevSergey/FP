@@ -1,0 +1,5 @@
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDCTS\bin\APIforCDCTS.dll.config
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDCTS\bin\APIforCDCTS.dll
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDCTS\bin\APIforCDCTS.pdb
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDCTS\obj\Debug\APIforCDCTS.dll
+c:\users\sereg\onedrive\документы\visual studio 2015\Projects\APIforCDC\APIforCDCTS\obj\Debug\APIforCDCTS.pdb

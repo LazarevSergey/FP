@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIforCDC_CS", "APIforCDC\APIforCDC_CS.csproj", "{96905D3B-6F73-4C10-986A-0C3D3530BBF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIforCDC_TS", "APIforCDCTS\APIforCDC_TS.csproj", "{29F38EEB-0780-485C-8EC7-E3D39A67332B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96905D3B-6F73-4C10-986A-0C3D3530BBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96905D3B-6F73-4C10-986A-0C3D3530BBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96905D3B-6F73-4C10-986A-0C3D3530BBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96905D3B-6F73-4C10-986A-0C3D3530BBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F38EEB-0780-485C-8EC7-E3D39A67332B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F38EEB-0780-485C-8EC7-E3D39A67332B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F38EEB-0780-485C-8EC7-E3D39A67332B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F38EEB-0780-485C-8EC7-E3D39A67332B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

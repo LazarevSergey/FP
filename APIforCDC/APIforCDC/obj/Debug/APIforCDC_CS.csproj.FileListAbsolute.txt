@@ -1,0 +1,6 @@
+C:\Users\sereg\Source\Repos\FP\APIforCDC\APIforCDC\bin\Debug\APIforCDC.exe.config
+C:\Users\sereg\Source\Repos\FP\APIforCDC\APIforCDC\bin\Debug\APIforCDC.exe
+C:\Users\sereg\Source\Repos\FP\APIforCDC\APIforCDC\bin\Debug\APIforCDC.pdb
+C:\Users\sereg\Source\Repos\FP\APIforCDC\APIforCDC\obj\Debug\APIforCDC_CS.csprojResolveAssemblyReference.cache
+C:\Users\sereg\Source\Repos\FP\APIforCDC\APIforCDC\obj\Debug\APIforCDC.exe
+C:\Users\sereg\Source\Repos\FP\APIforCDC\APIforCDC\obj\Debug\APIforCDC.pdb
